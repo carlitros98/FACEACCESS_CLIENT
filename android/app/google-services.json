@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450158956305",
+    "project_id": "capacityaccessemployee",
+    "storage_bucket": "capacityaccessemployee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450158956305:android:10c6ea6ec3cf1249d286b0",
+        "android_client_info": {
+          "package_name": "com.example.capacity_access_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450158956305-n3eq8d7jcjouicu07ggd2b9amcajcc46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAS8gxU9NaCEw1rXX1hQG2XwqK1bnv-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450158956305-n3eq8d7jcjouicu07ggd2b9amcajcc46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
