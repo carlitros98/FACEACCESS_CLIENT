@@ -220,7 +220,6 @@ class _FirstScreen extends State<FirstScreen> with WidgetsBindingObserver {
             if (r.device.name == "DSD Relay") {
               await flutterBlue.stopScan();
               disp = r.device;
-              print("PRESEND");
 
               disp.connect().then((value) {
                 disp.discoverServices().then((value) {
@@ -233,7 +232,6 @@ class _FirstScreen extends State<FirstScreen> with WidgetsBindingObserver {
                       for (BluetoothCharacteristic c in characteristics) {
                         if (c.uuid.toString() ==
                             "0000ffe1-0000-1000-8000-00805f9b34fb") {
-                          print("EXITAZO");
                           car = c;
                           establishBluetooth = true;
                           break;
