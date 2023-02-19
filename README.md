@@ -18,21 +18,21 @@ Para ello se han seguido dos arquitecturas, la primera para la comunicación ent
 <figure>
   <img
   src="./images/image1.png"
-  style="height:80%;"
+  style="height:30%;"
   alt="Inicio de la aplicación.">
 </figure>
 
 <figure>
   <img
   src="./images/image3.png"
-    style="height:80%;"
+    style="height:30%;"
   alt="Lector QR.">
 </figure>
 
 <figure>
   <img
   src="./images/image2.png"
-    style="height:80%;"
+    style="height:30%;"
   alt="Reconocimiento facial.">
 </figure>
 
