@@ -1,6 +1,6 @@
 # FaceAccess Client
 
-Esta es la implementación de la aplicación móvil del cliente del sistema **FaceAccess**. 
+Esta es la implementación de la aplicación móvil del cliente, correspondiente al sistema **FaceAccess**. 
 
 [![Watch the video](https://img.youtube.com/vi/7-49Uec5LTM/0.jpg)](https://youtu.be/7-49Uec5LTM)
 
@@ -14,6 +14,14 @@ La premisa de esta aplicación es que el cliente puede solicitar el acceso a cua
 En caso de que el cliente no esté registrado, el sistema le solicitará presentar su **Certificado COVID**. 
 
 Si al cliente se le concede el acceso, esta aplicación enviará una señal al relé del servidor para abrir la puerta de forma automática.
+
+La siguiente imagen representa la **comunicación entre esta aplicación y el servidor**.
+
+<figure>
+  <img
+  src="./images/arch1.png"
+  alt="Arquitectura.">
+</figure>
 
 En torno a la IA, se ha empleado un sistema de reconocimiento facial con TensorFlow que funciona a partir de tres fases:
 
