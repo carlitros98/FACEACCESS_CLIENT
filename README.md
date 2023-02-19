@@ -14,25 +14,25 @@ En ella se controlarán todas las comunicaciones entre base de datos y cliente. 
 Para ello se han seguido dos arquitecturas, la primera para la comunicación entre servicio y aplicación del cliente (**FaceAccess Client**), y la comunicación entre servicio y aplicación del empleado (**FaceAccess Employee**).
 
 ## *Imágenes de la aplicación móvil*
+<center>
+    <figure>
+    <img
+    src="./images/image1.png"
+    width="300" height="600"
+    alt="Inicio de la aplicación.">
+    </figure>
 
-<figure>
-  <img
-  src="./images/image1.png"
-  width="300" height="600"
-  alt="Inicio de la aplicación.">
-</figure>
+    <figure>
+    <img
+    src="./images/image3.png"
+    width="300" height="600"
+    alt="Lector QR.">
+    </figure>
 
-<figure>
-  <img
-  src="./images/image3.png"
-  width="300" height="600"
-  alt="Lector QR.">
-</figure>
-
-<figure>
-  <img
-  src="./images/image2.png"
-  width="300" height="600"
-  alt="Reconocimiento facial.">
-</figure>
-
+    <figure>
+    <img
+    src="./images/image2.png"
+    width="300" height="600"
+    alt="Reconocimiento facial.">
+    </figure>
+</center>
