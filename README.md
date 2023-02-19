@@ -45,7 +45,6 @@ Para ello debemos calcular la distancia euclidiana:
 <figure>
   <img
   src="./images/formula.PNG"
-  width="300" height="600"
   alt="Cálculo distancia.">
 </figure>
 
@@ -54,7 +53,6 @@ En nuestro caso, si la distancia es inferior a 0.7, implica que los dos rostros 
 <figure>
   <img
   src="./images/procedimiento.PNG"
-  width="300" height="600"
   alt="Procedimiento total.">
 </figure>
 
