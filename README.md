@@ -17,19 +17,19 @@ Para ello se han seguido dos arquitecturas, la primera para la comunicación ent
 
 <figure>
   <img
-  src="./images/image1.jpeg"
+  src="./images/image1.png"
   alt="Inicio de la aplicación.">
 </figure>
 
 <figure>
   <img
-  src="./images/image3.jpeg"
+  src="./images/image3.png"
   alt="Lector QR.">
 </figure>
 
 <figure>
   <img
-  src="./images/image2.jpeg"
+  src="./images/image2.png"
   alt="Reconocimiento facial.">
 </figure>
 
